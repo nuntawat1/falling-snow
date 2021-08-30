@@ -2,7 +2,7 @@ body {
     background-image:url('https://cdn.discordapp.com/attachments/489110031120334868/881802439085424671/nature-1630308457043-5791.jpg') ;
     background-repeat:no-repeat;
     background-size: cover;
-    color: #700;
+    color:orange;
 
     height: 150vh;
     font-weight: bold;
@@ -28,4 +28,13 @@ h1{
 .countdown span {
     display: block;
     font-size: 5rem;
+}
+#div1 {
+    z-index: 1;
+    position: absolute;
+}
+
+#div1 {
+    z-index: 1;
+    position: absolute;
 }
